@@ -10,19 +10,19 @@ Benchmark and engineering toolkit for satellite-video aircraft detection, multi-
 
 ### Cloud
 
-![Cloud scenario](https://github.com/user-attachments/assets/5a4b31f7-82e5-4fb8-b974-47f7e3d2f30f)
+https://github.com/user-attachments/assets/5a4b31f7-82e5-4fb8-b974-47f7e3d2f30f
 
 ### Crossing
 
-![Crossing scenario](https://github.com/user-attachments/assets/2d7dbdbd-a3c5-46d3-9943-542eddf4eb38)
+https://github.com/user-attachments/assets/2d7dbdbd-a3c5-46d3-9943-542eddf4eb38
 
 ### Scale & Low-Contrast
 
-![Scale and low-contrast scenario](https://github.com/user-attachments/assets/9dedd3bc-916d-4d38-b78a-b5feeeb983d0)
+https://github.com/user-attachments/assets/9dedd3bc-916d-4d38-b78a-b5feeeb983d0
 
 ### Type-Aware
 
-![Type-aware scenario](https://github.com/user-attachments/assets/4f98e4a6-8ddd-49c4-8015-f619144eb110)
+https://github.com/user-attachments/assets/4f98e4a6-8ddd-49c4-8015-f619144eb110
 
 1,281 videos · 99,960 frames · 1.28M HBB annotations · 159K OBB labels
 
