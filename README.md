@@ -1,6 +1,6 @@
 # Ying Li
 
-M.S. student working on remote sensing and computer vision, with a focus on engineering implementation for satellite-video aircraft analysis.
+Remote Sensing & Computer Vision | Detection · Tracking · Dataset & Benchmark Engineering
 
 ## Featured Work
 
@@ -8,12 +8,21 @@ M.S. student working on remote sensing and computer vision, with a focus on engi
 
 Benchmark and engineering toolkit for satellite-video aircraft detection, multi-object tracking, and fine-grained recognition.
 
-<table>
-  <tr>
-    <td align="center" width="50%"><a href="https://github.com/ly211211-l/SAVAir-Bench/blob/main/examples/smoke_v1/videos/crossing/crossing_000001/video.mp4"><img src="https://raw.githubusercontent.com/ly211211-l/SAVAir-Bench/main/examples/smoke_v1/previews/crossing_000001_frame_00001.png" alt="Crossing scenario" width="100%"></a><br><sub>Crossing scenario</sub></td>
-    <td align="center" width="50%"><a href="https://github.com/ly211211-l/SAVAir-Bench/blob/main/examples/smoke_v1/videos/type_aware/type_aware_000001/video.mp4"><img src="https://raw.githubusercontent.com/ly211211-l/SAVAir-Bench/main/examples/smoke_v1/previews/type_aware_000001_frame_00001.png" alt="Type-aware scenario" width="100%"></a><br><sub>Type-aware scenario</sub></td>
-  </tr>
-</table>
+### Cloud
+
+![Cloud scenario](https://github.com/user-attachments/assets/5a4b31f7-82e5-4fb8-b974-47f7e3d2f30f)
+
+### Crossing
+
+![Crossing scenario](https://github.com/user-attachments/assets/2d7dbdbd-a3c5-46d3-9943-542eddf4eb38)
+
+### Scale & Low-Contrast
+
+![Scale and low-contrast scenario](https://github.com/user-attachments/assets/9dedd3bc-916d-4d38-b78a-b5feeeb983d0)
+
+### Type-Aware
+
+![Type-aware scenario](https://github.com/user-attachments/assets/4f98e4a6-8ddd-49c4-8015-f619144eb110)
 
 1,281 videos · 99,960 frames · 1.28M HBB annotations · 159K OBB labels
 
@@ -21,17 +30,10 @@ Benchmark and engineering toolkit for satellite-video aircraft detection, multi-
 
 ## Core Skills
 
-Python | PyTorch | Computer Vision | Remote Sensing | Object Detection | Multi-Object Tracking | Data Processing | Benchmark Evaluation
+Python · PyTorch · Computer Vision · Remote Sensing · Object Detection · Multi-Object Tracking · Data Processing · Benchmark Evaluation
 
 ## Research
 
-SAVAir: A Physics-Guided Temporal Synthetic Dataset for Satellite-Video Aircraft Detection and Tracking
+SAVAir: A Physics-Guided Temporal Synthetic Dataset for Satellite-Video Aircraft Detection and Tracking — manuscript submitted to IEEE JSTARS.
 
-Manuscript submitted to IEEE JSTARS.
-
-ScienceDB dataset record:
-https://doi.org/10.57760/sciencedb.012st
-
-## Contact
-
-GitHub: https://github.com/ly211211-l
+ScienceDB: https://doi.org/10.57760/sciencedb.012st
