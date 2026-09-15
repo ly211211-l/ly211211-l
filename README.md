@@ -16,9 +16,9 @@ https://github.com/user-attachments/assets/c2666c71-4365-48b7-8604-fd985660646b
 
 https://github.com/user-attachments/assets/a332855c-29b5-4b02-bbed-5391edb5a40e
 
-### Type-aware
+### Core
 
-https://github.com/user-attachments/assets/ec4ee181-6e17-4e72-a1fb-41425c2709cb
+https://github.com/user-attachments/assets/f941697e-bf3d-4faf-9caa-c9d6cf52525d
 
 1,281 videos · 99,960 frames · 1.28M HBB annotations · 159K OBB labels
 
