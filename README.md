@@ -16,9 +16,9 @@ https://github.com/user-attachments/assets/f20ccdda-7681-453c-9a0b-d2f6761ebfdf
 
 https://github.com/user-attachments/assets/c866faa2-986d-4a40-8ffb-acc360e172e2
 
-### Core
+### Sea
 
-https://github.com/user-attachments/assets/8d0c41cf-705e-4aae-8f4f-facca859da99
+https://github.com/user-attachments/assets/0022f316-ffba-4a5f-ad42-41ffc9435191
 
 1,281 videos · 99,960 frames · 1.28M HBB annotations · 159K OBB labels
 
