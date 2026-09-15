@@ -2,22 +2,22 @@
 
 M.S. student working on remote sensing and computer vision, with a focus on engineering implementation for satellite-video aircraft analysis.
 
-## Featured Project
+## Featured Work
 
 ### SAVAir-Bench
 
-[Repository](https://github.com/ly211211-l/SAVAir-Bench)
-
 Benchmark and engineering toolkit for satellite-video aircraft detection, multi-object tracking, and fine-grained recognition.
 
-Key points:
+<table>
+  <tr>
+    <td align="center" width="50%"><a href="https://github.com/ly211211-l/SAVAir-Bench/blob/main/examples/smoke_v1/videos/crossing/crossing_000001/video.mp4"><img src="https://raw.githubusercontent.com/ly211211-l/SAVAir-Bench/main/examples/smoke_v1/previews/crossing_000001_frame_00001.png" alt="Crossing scenario" width="100%"></a><br><sub>Crossing scenario</sub></td>
+    <td align="center" width="50%"><a href="https://github.com/ly211211-l/SAVAir-Bench/blob/main/examples/smoke_v1/videos/type_aware/type_aware_000001/video.mp4"><img src="https://raw.githubusercontent.com/ly211211-l/SAVAir-Bench/main/examples/smoke_v1/previews/type_aware_000001_frame_00001.png" alt="Type-aware scenario" width="100%"></a><br><sub>Type-aware scenario</sub></td>
+  </tr>
+</table>
 
-- 1,281 satellite videos
-- 99,960 frames
-- 1,284,563 HBB annotations
-- 159,045 OBB labels
-- Detection, tracking, fine-grained recognition
-- Python / PyTorch / data processing / evaluation / benchmark tooling
+1,281 videos · 99,960 frames · 1.28M HBB annotations · 159K OBB labels
+
+[Explore SAVAir-Bench →](https://github.com/ly211211-l/SAVAir-Bench)
 
 ## Core Skills
 
